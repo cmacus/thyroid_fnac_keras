@@ -9,4 +9,4 @@ Included
 * model.json
 * demo images
 
-![Papillary carcinoma with intranuclerar inclusion predicted by the model][(thyroid_keras_papillary.png)
+![Papillary carcinoma predicted by the model](thyroid_keras_papillary.png)
