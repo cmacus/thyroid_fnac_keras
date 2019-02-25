@@ -8,3 +8,5 @@ Included
 * one set of weights at 40x magnification
 * model.json
 * demo images
+
+![Papillary carcinoma with intranuclerar inclusion predicted by the model][thyroid_keras_papilalry.png]
