@@ -9,6 +9,8 @@ Included
 * model.json
 * demo images
 
-Here is the publication : http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2018;volume=9;issue=1;spage=43;epage=43;aulast=Sanyal;type=0; try improving the score
+Here is the publication : http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2018;volume=9;issue=1;spage=43;epage=43;aulast=Sanyal;type=0;
+
+Try improving the precision of the model. False positives should be kept to minimum.
 
 ![Papillary carcinoma predicted by the model](thyroid_keras_papillary.png)
